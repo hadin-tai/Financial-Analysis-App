@@ -1,0 +1,93 @@
+date,type,amount,category,paymentMethod,status,dueDate,notes
+2025-09-28,expense,2759.89,Entertainment,Cash,Completed,,Movies and snacks
+2025-09-28,expense,1219.93,Transport,Cash,Completed,,Cab fares
+2025-09-28,expense,1615.54,Dining,UPI,Completed,,Lunch with friends
+2025-09-27,expense,2476.1,Entertainment,Cash,Completed,,Movies and snacks
+2025-09-21,expense,2174.73,Transport,UPI,Completed,,Cab fares
+2025-09-21,expense,4525.98,Groceries,UPI,Completed,,Weekly shopping
+2025-09-18,expense,2727.57,Dining,Cash,Completed,,Dinner date
+2025-09-18,expense,2859.32,Groceries,Card,Completed,,Supermarket visit
+2025-09-17,income,59726.56,Salary,Bank Transfer,Completed,,Monthly Salary
+2025-09-16,expense,19451.99,Rent,Bank Transfer,Completed,,Monthly Rent
+2025-09-15,expense,14482.8,Shopping,Card,Pending,2025-09-20,Home decor
+2025-09-13,expense,810.75,Dining,UPI,Completed,,Lunch with friends
+2025-09-12,expense,1444.17,Subscriptions,Card,Completed,,Streaming service
+2025-09-10,expense,1697.11,Transport,Cash,Completed,,Cab fares
+2025-09-09,expense,17749.23,Credit Card Payment,Card,Pending,2025-09-12,Upcoming credit card payment
+2025-09-09,expense,2251.94,Dining,Cash,Completed,,Lunch with friends
+2025-09-09,income,10927.39,Freelance,UPI,Completed,,Consulting Fee
+2025-09-08,expense,4738.1,Groceries,Card,Completed,,Weekly shopping
+2025-09-06,expense,2687.64,Dining,Cash,Completed,,Dinner date
+2025-09-03,expense,14918.75,Shopping,Card,Pending,2025-09-08,Clothes
+2025-09-02,expense,3352.59,Groceries,UPI,Completed,,Supermarket visit
+2025-09-02,expense,4548.11,Utilities,UPI,Completed,,Water bill
+2025-09-02,income,23035.4,Freelance,UPI,Completed,,Project X Payment
+2025-09-01,income,1285.76,Interest,Bank Transfer,Completed,,FD Interest
+2025-09-01,expense,1966.54,Transport,UPI,Completed,,Bus ticket
+2025-08-30,expense,600.65,Transport,UPI,Completed,,Bus ticket
+2025-08-29,income,1446.03,Interest,Bank Transfer,Completed,,FD Interest
+2025-08-28,expense,2220.99,Groceries,Card,Completed,,Weekly shopping
+2025-08-26,expense,2028.25,Dining,Cash,Completed,,Team dinner
+2025-08-25,income,23817.32,Freelance,Bank Transfer,Completed,,Consulting Fee
+2025-08-24,expense,1878.46,Entertainment,Card,Completed,,Movies and snacks
+2025-08-24,expense,634.48,Dining,Card,Completed,,Lunch with friends
+2025-08-22,expense,3169.24,Groceries,Card,Completed,,Weekly shopping
+2025-08-17,expense,4645.9,Groceries,Card,Completed,,Supermarket visit
+2025-08-15,expense,1393.59,Subscriptions,Card,Completed,,Streaming service
+2025-08-14,expense,10816.4,Shopping,Card,Pending,2025-08-19,Home decor
+2025-08-12,income,23027.65,Freelance,Bank Transfer,Completed,,Project X Payment
+2025-08-12,expense,742.64,Transport,Cash,Completed,,Bus ticket
+2025-08-10,expense,1232.12,Entertainment,Cash,Completed,,Movies and snacks
+2025-08-10,income,56652.38,Salary,Bank Transfer,Completed,,Monthly Salary
+2025-08-07,expense,1235.84,Dining,Cash,Completed,,Lunch with friends
+2025-08-07,expense,956.83,Dining,Cash,Completed,,Dinner date
+2025-08-05,expense,2274.13,Transport,UPI,Completed,,Cab fares
+2025-08-04,expense,2437.02,Dining,UPI,Completed,,Team dinner
+2025-08-04,expense,18473.36,Rent,Bank Transfer,Completed,,Monthly Rent
+2025-08-03,expense,18430.93,Credit Card Payment,Card,Pending,2025-08-06,Monthly Credit Card Bill
+2025-08-03,expense,8741.79,Shopping,Card,Pending,2025-08-08,Clothes
+2025-08-01,expense,1134.97,Transport,Cash,Completed,,Bus ticket
+2025-08-01,expense,4983.88,Groceries,Card,Completed,,Supermarket visit
+2025-08-01,expense,3425.9,Utilities,Card,Completed,,Water bill
+2025-07-30,expense,2467.15,Dining,Card,Completed,,Team dinner
+2025-07-29,expense,1463.07,Subscriptions,Card,Completed,,Streaming service
+2025-07-28,income,52350.4,Salary,Bank Transfer,Completed,,Paycheck
+2025-07-28,expense,4418.53,Groceries,UPI,Completed,,Weekly shopping
+2025-07-25,income,1738.1,Interest,Bank Transfer,Completed,,FD Interest
+2025-07-24,expense,1370.98,Dining,Cash,Completed,,Dinner date
+2025-07-22,expense,898.17,Transport,UPI,Completed,,Cab fares
+2025-07-21,expense,735.5,Transport,Cash,Completed,,Bus ticket
+2025-07-19,expense,6335.49,Shopping,Card,Pending,2025-07-24,Home decor
+2025-07-19,expense,2503.6,Dining,Card,Completed,,Lunch with friends
+2025-07-16,expense,1023.01,Transport,UPI,Completed,,Cab fares
+2025-07-16,expense,1729.48,Transport,UPI,Completed,,Bus ticket
+2025-07-16,expense,2210.62,Entertainment,Cash,Completed,,Concert tickets
+2025-07-15,income,15564.39,Freelance,Bank Transfer,Completed,,Website fix
+2025-07-14,expense,14457.78,Shopping,Card,Pending,2025-07-19,New gadgets
+2025-07-11,expense,2412.15,Dining,Card,Completed,,Lunch with friends
+2025-07-09,expense,3395.74,Groceries,Card,Completed,,Weekly shopping
+2025-07-09,expense,16790.1,Rent,Bank Transfer,Completed,,Monthly Rent
+2025-07-07,expense,840.43,Transport,UPI,Completed,,Cab fares
+2025-07-07,expense,3011.82,Groceries,Card,Completed,,Weekly shopping
+2025-07-04,expense,2998.02,Entertainment,Card,Completed,,Movies and snacks
+2025-07-04,expense,1357.48,Dining,Cash,Completed,,Dinner date
+2025-07-02,expense,1726.83,Transport,UPI,Completed,,Cab fares
+2025-07-02,expense,1483.22,Dining,Card,Completed,,Lunch with friends
+2025-07-01,income,14876.46,Freelance,Bank Transfer,Completed,,Website fix
+2025-07-01,expense,16374.27,Credit Card Payment,Bank Transfer,Pending,2025-07-04,Upcoming credit card payment
+2025-07-01,expense,4521.28,Groceries,Card,Completed,,Weekly shopping
+2025-07-01,expense,3635.11,Utilities,UPI,Completed,,Electricity bill
+2025-06-30,income,20000.0,Bonus,Bank Transfer,Completed,,Performance bonus
+2025-06-29,income,15000.0,Freelance,UPI,Completed,,Website fix
+2025-06-28,expense,4000.0,Credit Card Payment,Card,Pending,2025-07-03,Upcoming credit card payment
+2025-06-27,expense,6000.0,Dining,UPI,Completed,,Team dinner
+2025-06-26,expense,7000.0,Shopping,Card,Pending,2025-07-05,Clothes
+2025-06-25,expense,2000.0,Entertainment,Cash,Completed,,Movies and snacks
+2025-06-21,expense,2500.0,Transport,Cash,Completed,,Cab fares
+2025-06-20,income,5000.0,Interest,Bank Transfer,Completed,,Savings interest
+2025-06-18,expense,3000.0,Utilities,Card,Completed,,Electricity bill
+2025-06-15,income,30000.0,Freelance,UPI,Completed,,Freelance project
+2025-06-12,expense,1500.0,Subscriptions,Card,Completed,,Music + cloud
+2025-06-10,expense,8000.0,Groceries,UPI,Completed,,Weekly groceries
+2025-06-05,expense,40000.0,Rent,Bank Transfer,Completed,,June rent
+2025-06-01,income,120000.0,Salary,Bank Transfer,Completed,,June salary

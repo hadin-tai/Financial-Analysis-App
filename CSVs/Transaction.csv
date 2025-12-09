@@ -1,0 +1,15 @@
+date,type,amount,category,paymentMethod,status,dueDate,notes
+2025-06-30,income,20000.00,Bonus,Bank Transfer,Completed,,Performance bonus
+2025-06-29,income,15000.00,Freelance,UPI,Completed,,Website fix
+2025-06-28,expense,4000.00,Credit Card Payment,Card,Pending,2025-07-03,Upcoming credit card payment
+2025-06-27,expense,6000.00,Dining,UPI,Completed,,Team dinner
+2025-06-26,expense,7000.00,Shopping,Card,Pending,2025-07-05,Clothes
+2025-06-25,expense,2000.00,Entertainment,Cash,Completed,,Movies and snacks
+2025-06-21,expense,2500.00,Transport,Cash,Completed,,Cab fares
+2025-06-20,income,5000.00,Interest,Bank Transfer,Completed,,Savings interest
+2025-06-18,expense,3000.00,Utilities,Card,Completed,,Electricity bill
+2025-06-15,income,30000.00,Freelance,UPI,Completed,,Freelance project
+2025-06-12,expense,1500.00,Subscriptions,Card,Completed,,Music + cloud
+2025-06-10,expense,8000.00,Groceries,UPI,Completed,,Weekly groceries
+2025-06-05,expense,40000.00,Rent,Bank Transfer,Completed,,June rent
+2025-06-01,income,120000.00,Salary,Bank Transfer,Completed,,June salary

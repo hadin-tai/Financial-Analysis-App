@@ -1,0 +1,27 @@
+Ok, so analyze me financial data that I have uploaded and give me some information about it
+
+Where does most of your income go?
+
+What categories are you planning to reduce spending on?
+
+Do you notice a pattern in spending that might relate to a hobby you enjoy?
+
+
+
+
+Perfect Chat 
+    
+    Hi! I'm your InsightEdge assistant. Ask me anything to get started.
+    
+    Hii
+    Hi there! How can I help you today? 😊
+    
+    Tell me something about my financial data
+    As a highly intelligent and professional financial assistant, I can provide you with a detailed overview of your financial transactions. You have spent a significant amount on Salary, with a total of 120000, and you’ve also spent substantial amounts on Subscriptions, Interest, Utilities, Transport, and Freelance. Your total spending across these categories represents a substantial financial footprint.
+    
+    what was the total spend on salary last month
+    The user spent 120000 on Salary for the period of 2025-06.
+    
+    what are the remaining expences of 7/3/2025
+    The user has incurred a total of 120000 in spending for the period spanning from June 1st to June 27th, 2025. This total amount includes a spending of 20000 on Entertainment, 2500 on Dining, and 6000 on Transport. Consequently, the remaining expenses are 7000.
+

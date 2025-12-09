@@ -1,0 +1,66 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Global fix for select element focus highlighting */
+select {
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  outline: none !important;
+  box-shadow: none !important;
+  border-color: transparent !important;
+  background-color: white !important;
+  color: black !important;
+}
+
+select:focus {
+  outline: none !important;
+  box-shadow: none !important;
+  border-color: transparent !important;
+  background-color: white !important;
+  color: black !important;
+}
+
+select:focus-visible {
+  outline: none !important;
+  box-shadow: none !important;
+  border-color: transparent !important;
+  background-color: white !important;
+  color: black !important;
+}
+
+select:active {
+  outline: none !important;
+  box-shadow: none !important;
+  border-color: transparent !important;
+  background-color: white !important;
+  color: black !important;
+}
+
+/* Additional fix for when modal is open */
+body.modal-open select {
+  outline: none !important;
+  box-shadow: none !important;
+  border-color: transparent !important;
+  background-color: white !important;
+  color: black !important;
+  pointer-events: none;
+}
+
+body.modal-open select:focus {
+  outline: none !important;
+  box-shadow: none !important;
+  border-color: transparent !important;
+  background-color: white !important;
+  color: black !important;
+}
+
+body.modal-open select:active {
+  outline: none !important;
+  box-shadow: none !important;
+  border-color: transparent !important;
+  background-color: white !important;
+  color: black !important;
+}

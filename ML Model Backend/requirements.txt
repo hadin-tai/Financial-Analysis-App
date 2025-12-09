@@ -1,0 +1,69 @@
+fastapi>=0.109.0
+uvicorn[standard]>=0.27.0
+httpx>=0.26.0
+python-dotenv>=1.0.0
+
+# LangChain Core
+langchain
+langchain-core
+
+# OpenAI Integration
+langchain-openai
+openai
+
+# Anthropic Integration
+langchain-anthropic
+
+# Google Gemini (PaLM) Integration
+langchain-google-genai
+google-generativeai
+
+# Hugging Face Integration
+langchain-huggingface
+transformers
+huggingface-hub
+faiss-cpu
+
+# Machine Learning Utilities
+numpy
+scikit-learn
+
+
+
+
+
+
+
+
+
+# fastapi>=0.109.0
+# uvicorn[standard]>=0.27.0
+# httpx>=0.26.0
+# python-dotenv>=1.0.0
+
+# # LangChain Core
+# langchain
+# langchain-core
+
+# # OpenAI Integration
+# langchain-openai
+# openai
+
+# # Anthropic Integration
+# langchain-anthropic
+
+# # Google Gemini (PaLM) Integration
+# langchain-google-genai
+# google-generativeai
+
+# # Hugging Face Integration
+# langchain-huggingface
+# transformers
+# huggingface-hub
+
+# # Environment Variable Management
+# python-dotenv
+
+# # Machine Learning Utilities
+# numpy
+# scikit-learn

@@ -1,0 +1,6 @@
+date,currentAssets,currentLiabilities,totalLiabilities,totalEquity,notes
+2025-06-30,160000.00,100000.00,130000.00,200000.00,Latest month snapshot
+2025-06-15,150000.00,94000.00,125000.00,192000.00,Mid-month snapshot
+2025-05-31,100000.00,40000.00,70000.00,50000.00,Previous month snapshot
+2025-05-15,95000.00,38000.00,68000.00,48000.00,Mid-month snapshot
+2025-04-30,90000.00,35000.00,65000.00,45000.00,April end snapshot
