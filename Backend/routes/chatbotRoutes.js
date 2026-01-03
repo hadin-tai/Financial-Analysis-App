@@ -18,7 +18,7 @@ router.post('/sync-user-data', async (req, res) => {
     const budgets = await Budget.find({ userId });
     const balanceSheets = await BalanceSheet.find({ userId });
 
-    await axios.post("http://localhost:8000/sync-user-data", {
+    await axios.post(`${process.env.BACKEND_URL}/sync-user-data`, {
       user_id: userId,
       transactions,
       budgets,
@@ -38,7 +38,7 @@ router.post('/chatbot', async (req, res) => {
     const { user_id, session_id, message } = req.body;
     console.log("called")
 
-    const response = await axios.post('http://localhost:8000/chat', {
+    const response = await axios.post(`${process.env.BACKEND_URL}/chat`, {
       user_id,
       session_id,
       message
