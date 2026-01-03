@@ -5,7 +5,7 @@ const API_BASE_URL = import.meta.env.VITE_BACKEND_URL
 
 const instance = axios.create({
   // baseURL: 'http://localhost:5000/api', // ✅ Your backend URL
-  baseURL: API_BASE_URL + '/api',
+  baseURL: API_BASE_URL,
   headers: {
     'Content-Type': 'application/json',
   },
